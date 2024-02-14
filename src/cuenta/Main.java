@@ -3,7 +3,7 @@ package cuenta;
  * Clase que realiza una serie de operaciones (ingresar y retirar dinero)
  * resultado en pantalla con System out.println
  * @author Ismael Alcázar González
- *  @since 25/02/2024
+ * @since 25/02/2024
  * @version 1.0 25/02/2024
  */
 
